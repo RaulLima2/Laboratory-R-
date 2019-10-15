@@ -88,4 +88,4 @@ You nedd install [R](https://www.r-project.org/)
 
 
 # Contributors:
-1[R.Bruno Lima](https://github.com/RaulLima2)
+1. [R.Bruno Lima](https://github.com/RaulLima2)
