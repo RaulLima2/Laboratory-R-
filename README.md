@@ -65,7 +65,7 @@ You nedd install [R](https://www.r-project.org/)
 [Ubuntu](https://cloud.r-project.org/bin/linux/ubuntu/README)
 [Debian](https://cloud.r-project.org/bin/linux/debian/)
 
-1°.Abra o terminal(comando de teclado CTRL + ALT +T)
+1°.Open the terminal(or CTRL + ALT +T)
 
 2°. add repository
 ```sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu bionic-cran35/```
