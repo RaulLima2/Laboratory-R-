@@ -2,7 +2,7 @@
 
 # Portugues
 
-Este repositorio tem como objetivo demonstra aplicações da linguagem R na áreas da matematica.
+Este repositorio tem como objetivo demonstra aplicações da linguagem R na áreas da matematica e exercicio para aprendizagem.
 
 ### R- Guia de instalação
 
@@ -45,7 +45,7 @@ Você precissa instalar [R](https://www.r-project.org/)
 
 # English
 
-This repository aims to demonstrate applications of the R language in areas of mathematics.
+This repository aims to demonstrate applications of the R language in areas of mathematics and exercices for learn.
 
 ### R- Installation Guide
 
